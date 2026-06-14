@@ -19,4 +19,4 @@ Na primeira versão, o miniapp utilizava apenas a permissão padrão de acesso �
 
 ```xml
 <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+```
