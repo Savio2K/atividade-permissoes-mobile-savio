@@ -14,8 +14,8 @@
             android:id="@+id/tvTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Consultor de Cotação de Moedas"
-            android:textSize="22sp"
+            android:text="Consultor de Moedas (Versão Permissão)"
+            android:textSize="20sp"
             android:textStyle="bold"
             android:textColor="#333333"
             android:gravity="center"
@@ -25,7 +25,7 @@
             android:id="@+id/etCoinInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite a sigla da moeda (ex: USD, EUR, BTC)"
+            android:hint="Digite a sigla da moeda (ex: USD, EUR)"
             android:inputType="textCapCharacters"
             android:maxLength="3"
             android:minHeight="48dp"
@@ -35,8 +35,18 @@
             android:id="@+id/btnSearch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Buscar Cotação Atual"
+            android:text="Buscar Cotação"
             android:textSize="16sp"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnNotify"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Notificar esta Cotação"
+            android:textSize="16sp"
+            android:backgroundTint="#4CAF50"
+            android:visibility="gone"
             android:layout_marginBottom="24dp" />
 
         <TextView
