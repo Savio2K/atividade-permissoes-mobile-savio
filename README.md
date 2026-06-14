@@ -20,3 +20,6 @@ Na primeira versão, o miniapp utilizava apenas a permissão padrão de acesso �
 ```xml
 <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 ```
+<img width="471" height="621" alt="Captura de tela 2026-06-14 194243" src="https://github.com/user-attachments/assets/d483f2b2-453a-4940-bb91-b0760bf88316" />
+<img width="477" height="618" alt="Captura de tela 2026-06-14 194352" src="https://github.com/user-attachments/assets/d9a7bdd0-fc36-4c3e-a685-fde8e12ee47f" />
+<img width="472" height="611" alt="Captura de tela 2026-06-14 194444" src="https://github.com/user-attachments/assets/57e56536-b967-4a07-a7cd-a57309a59c04" />
